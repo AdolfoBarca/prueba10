@@ -355,10 +355,10 @@ text-align: center;
       grid-template-columns: repeat(2,1fr);
    }
    
-  /* .contenedor-2 img{
+   .contenedor-2 img{
     width: 100% !important;
     height: 100% !important;
-   }*/
+   }
 }
 
 
